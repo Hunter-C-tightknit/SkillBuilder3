@@ -9,6 +9,17 @@
  */
 public class PowerPill
 {
+    static int DEFAULT_POWER = 10;
+    int power;
+    String name = "Broccoli";
+    PowerPill(String name, int power) {
+
+
+    }
+
+
+    }
+
     // TODO - replace this line with instruction from step 1
 
     // instance variables
