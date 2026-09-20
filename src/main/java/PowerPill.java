@@ -43,7 +43,7 @@ public class PowerPill
         this.power = power;
    }
     public String toString() {
-        return "powerPill" + name + "=" + power;
+        return "PowerPill " + name + " = " + power;
     }
     // instance variables
 
